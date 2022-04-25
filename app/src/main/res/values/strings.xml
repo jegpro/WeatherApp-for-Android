@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="logo">Weather App</string>
+    <string name="no_user_input">Please input city name!</string>
+</resources>
